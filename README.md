@@ -3,6 +3,8 @@
 This lab will teach you how to run tasks in parallel in the shell.
 This is the first step in completing your twitter analysis homework.
 
+<img src=img/meme.jpg width=400px />
+
 <!--
 Portions of this lab require you to work with a partner.
 So you should pair up with another student.
