@@ -272,7 +272,7 @@ This should be done if a polite kill request didn't work.
 
 > **ASIDE:**
 > If you find the term "polite kill request" humorous, you're not alone.
-> There's lots of programming jokes about these concepts.
+> There're lots of programming jokes about these concepts.
 > For example:
 > 
 > <img src=img/kill.webp width=300px />
